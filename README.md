@@ -2,6 +2,8 @@
 
 A Telegram Bot that finds flames.
 
+![Screenshot](https://github.com/5hanth/flames-bot/raw/master/Screenshot_2016-01-07-11-44-32.png)
+
 ## Usage
 
 Create a Bot using BotFather;
